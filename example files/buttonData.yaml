@@ -1,0 +1,7 @@
+buttons:
+    - id: hash
+      name: buttonName
+      label: buttonLabel
+      template: buttonTemplate
+      color: buttonColor
+      saveLocation: buttonSaveLocation
